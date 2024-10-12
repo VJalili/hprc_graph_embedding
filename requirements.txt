@@ -1,1 +1,5 @@
 jupyter
+h5py
+tqdm
+pandas
+seaborn
